@@ -1,7 +1,8 @@
 [
-  { "imageUrl" : "https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate3.png",
-    "title": "Aspar – कुरिलो",
-    "price": "Rs. 240.00",
-    "unit": "kg"
-    }
+   {
+      "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate3.png",
+      "title":"Aspar – कुरिलो",
+      "price":"Rs. 240.00",
+      "unit":"kg"
+   }
 ]
