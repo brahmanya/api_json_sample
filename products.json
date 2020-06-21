@@ -2,8 +2,92 @@
    "status":"ok",
    "products":[
       {
-         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate3.png",
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate1.png",
          "title":"Aspar – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate3.png",
+         "title":"Aspar1 – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate2.png",
+         "title":"Aspar2 – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate4.png",
+         "title":"Aspar3 – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate3.png",
+         "title":"Aspar4 – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate3.png",
+         "title":"Aspar5 – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate5.png",
+         "title":"Aspar6 – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate3.png",
+         "title":"Aspar7 – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate6.png",
+         "title":"Aspar8 – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate3.png",
+         "title":"Aspar9 – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate3.png",
+         "title":"Aspar10 – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate1.png",
+         "title":"Aspar11 – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate3.png",
+         "title":"Aspar12 – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate2.png",
+         "title":"Aspar13 – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate1.png",
+         "title":"Aspar14 – कुरिलो",
          "price":"Rs. 240.00",
          "unit":"kg"
       }
