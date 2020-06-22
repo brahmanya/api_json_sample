@@ -1,1 +1,123 @@
-test
+{
+   "status":"ok",
+   "products":[
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate1.png",
+         "title":"Aspar – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate3.png",
+         "title":"Beet Root – बीट रूट",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate2.png",
+         "title":"Bitter Gourd – तिते करेला",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate4.png",
+         "title":"Black Eye Beans – बोडी",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate5.png",
+         "title":"Bottle Gourd – लौका",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate6.png",
+         "title":"Brinjal/ Egg plant – भन्टा",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate1.png",
+         "title":"Aspar – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate3.png",
+         "title":"Beet Root – बीट रूट",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate2.png",
+         "title":"Bitter Gourd – तिते करेला",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate4.png",
+         "title":"Black Eye Beans – बोडी",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate5.png",
+         "title":"Bottle Gourd – लौका",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate6.png",
+         "title":"Brinjal/ Egg plant – भन्टा",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },{
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate1.png",
+         "title":"Aspar – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate3.png",
+         "title":"Beet Root – बीट रूट",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate2.png",
+         "title":"Bitter Gourd – तिते करेला",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate4.png",
+         "title":"Black Eye Beans – बोडी",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate5.png",
+         "title":"Bottle Gourd – लौका",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate6.png",
+         "title":"Brinjal/ Egg plant – भन्टा",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },{
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate1.png",
+         "title":"Aspar – कुरिलो",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      },
+      {
+         "imageUrl":"https://raw.githubusercontent.com/rajayogan/flutterui-curveddesigns/master/assets/plate3.png",
+         "title":"Beet Root – बीट रूट",
+         "price":"Rs. 240.00",
+         "unit":"kg"
+      }
+   ]
+}  
