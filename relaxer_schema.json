@@ -1,0 +1,14 @@
+"components": {
+  "schemas": {
+    "user": {
+      "properties": {
+        "id": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}
